@@ -1,7 +1,7 @@
-#Homing with Stereovision (HSV)
+# Homing with Stereovision (HSV)
 
-##Requirements:
-###Software:
+## Requirements:
+### Software:
 - Linux (Debian/Ubuntu/Mint) OS
 - g++
 - Opencv
@@ -10,14 +10,14 @@
 - Triclops
 - PGR (PointGrey) libraries
 
-###Hardware:
+### Hardware:
 - Pioneer 2 or 3 Robot
 - Bumblebee2 Stereocamera
 
-##Performance Video:
+## Performance Video:
 http://www.youtube.com/watch?v=ASm9U-ZPs1Q
 
-##Running
+## Running
 1. Program will ask user to place robot at home location
 2. Robot will capture wide-field home image
 3. Program will ask user to place robot away from home location
@@ -25,4 +25,4 @@ http://www.youtube.com/watch?v=ASm9U-ZPs1Q
 
 ---
 
-(c) Prem Nirmal, Fordham University Robotics and Computer Vision
+> Prem Nirmal
